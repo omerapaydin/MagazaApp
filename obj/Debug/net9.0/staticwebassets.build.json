@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "eDH7O3SMbd89ty0bXWXi7tQxSAJ2xkJxXEzXn1+Bq/w=",
+  "Source": "MagazaApp",
+  "BasePath": "_content/MagazaApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MagazaApp/wwwroot",
+      "Source": "MagazaApp",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/aker.jpg",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "img/aker#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rw1nh5m6c",
+      "Integrity": "D4e+YoQNnzdVxl3/v1ePNKlTXDNbsuU8vMmnWQlcmKM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/aker.jpg"
+    },
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp1.jpg",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "img/esarp1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v9gze2xuk0",
+      "Integrity": "I+OVaDSj+8Nt0nmBtS2hKDMO7aAwMLudxhHaZyZxV5E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/esarp1.jpg"
+    },
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp2.jpg",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "img/esarp2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "scp4bsrqpy",
+      "Integrity": "pJvu61Pprh+ywiBgpH+3X8Du6NgckqvpzBU0Qx5q620=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/esarp2.jpg"
+    },
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp3.jpg",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "img/esarp3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dw5j6bcafn",
+      "Integrity": "nbbKu8H3AFEVBB5R3MEHq8daKNWvnbUWWyrKlFi82F8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/esarp3.jpg"
+    },
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp4.jpg",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "img/esarp4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sii92wejb8",
+      "Integrity": "/NcUssptUOWnHF2iiB9jKFz6rOgqCD8hLnKRSwSJQew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/esarp4.jpg"
+    },
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp5.jpg",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "img/esarp5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1gqm5qoc69",
+      "Integrity": "YXzT2H0t0+RJTRm7zpU12/9rIJKlxHZyFh8CZHfPzfA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/esarp5.jpg"
+    },
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp6.jpg",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "img/esarp6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p7xf1baf1c",
+      "Integrity": "G524mVeBgoGxEUpgtXiuHhcgXtp+hG1FhQVmjqLkAFw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/esarp6.jpg"
+    },
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarpp.jpg",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "img/esarpp#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yhsimjqk1h",
+      "Integrity": "xgL1rT6Tjz5/WC95JNbjH4aIwQp4ntkFmOaEhGY95Yw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/esarpp.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/aker.3rw1nh5m6c.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/aker.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "510910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D4e+YoQNnzdVxl3/v1ePNKlTXDNbsuU8vMmnWQlcmKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rw1nh5m6c"
+        },
+        {
+          "Name": "label",
+          "Value": "img/aker.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D4e+YoQNnzdVxl3/v1ePNKlTXDNbsuU8vMmnWQlcmKM="
+        }
+      ]
+    },
+    {
+      "Route": "img/aker.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/aker.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "510910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D4e+YoQNnzdVxl3/v1ePNKlTXDNbsuU8vMmnWQlcmKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D4e+YoQNnzdVxl3/v1ePNKlTXDNbsuU8vMmnWQlcmKM="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp1.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I+OVaDSj+8Nt0nmBtS2hKDMO7aAwMLudxhHaZyZxV5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+OVaDSj+8Nt0nmBtS2hKDMO7aAwMLudxhHaZyZxV5E="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp1.v9gze2xuk0.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I+OVaDSj+8Nt0nmBtS2hKDMO7aAwMLudxhHaZyZxV5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9gze2xuk0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/esarp1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I+OVaDSj+8Nt0nmBtS2hKDMO7aAwMLudxhHaZyZxV5E="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp2.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJvu61Pprh+ywiBgpH+3X8Du6NgckqvpzBU0Qx5q620=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJvu61Pprh+ywiBgpH+3X8Du6NgckqvpzBU0Qx5q620="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp2.scp4bsrqpy.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJvu61Pprh+ywiBgpH+3X8Du6NgckqvpzBU0Qx5q620=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "scp4bsrqpy"
+        },
+        {
+          "Name": "label",
+          "Value": "img/esarp2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJvu61Pprh+ywiBgpH+3X8Du6NgckqvpzBU0Qx5q620="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp3.dw5j6bcafn.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nbbKu8H3AFEVBB5R3MEHq8daKNWvnbUWWyrKlFi82F8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dw5j6bcafn"
+        },
+        {
+          "Name": "label",
+          "Value": "img/esarp3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nbbKu8H3AFEVBB5R3MEHq8daKNWvnbUWWyrKlFi82F8="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp3.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nbbKu8H3AFEVBB5R3MEHq8daKNWvnbUWWyrKlFi82F8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nbbKu8H3AFEVBB5R3MEHq8daKNWvnbUWWyrKlFi82F8="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp4.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "206652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/NcUssptUOWnHF2iiB9jKFz6rOgqCD8hLnKRSwSJQew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/NcUssptUOWnHF2iiB9jKFz6rOgqCD8hLnKRSwSJQew="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp4.sii92wejb8.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "206652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/NcUssptUOWnHF2iiB9jKFz6rOgqCD8hLnKRSwSJQew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sii92wejb8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/esarp4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/NcUssptUOWnHF2iiB9jKFz6rOgqCD8hLnKRSwSJQew="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp5.1gqm5qoc69.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YXzT2H0t0+RJTRm7zpU12/9rIJKlxHZyFh8CZHfPzfA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1gqm5qoc69"
+        },
+        {
+          "Name": "label",
+          "Value": "img/esarp5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YXzT2H0t0+RJTRm7zpU12/9rIJKlxHZyFh8CZHfPzfA="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp5.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YXzT2H0t0+RJTRm7zpU12/9rIJKlxHZyFh8CZHfPzfA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YXzT2H0t0+RJTRm7zpU12/9rIJKlxHZyFh8CZHfPzfA="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp6.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G524mVeBgoGxEUpgtXiuHhcgXtp+hG1FhQVmjqLkAFw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G524mVeBgoGxEUpgtXiuHhcgXtp+hG1FhQVmjqLkAFw="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarp6.p7xf1baf1c.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G524mVeBgoGxEUpgtXiuHhcgXtp+hG1FhQVmjqLkAFw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p7xf1baf1c"
+        },
+        {
+          "Name": "label",
+          "Value": "img/esarp6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G524mVeBgoGxEUpgtXiuHhcgXtp+hG1FhQVmjqLkAFw="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarpp.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarpp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgL1rT6Tjz5/WC95JNbjH4aIwQp4ntkFmOaEhGY95Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgL1rT6Tjz5/WC95JNbjH4aIwQp4ntkFmOaEhGY95Yw="
+        }
+      ]
+    },
+    {
+      "Route": "img/esarpp.yhsimjqk1h.jpg",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarpp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgL1rT6Tjz5/WC95JNbjH4aIwQp4ntkFmOaEhGY95Yw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Aug 2025 21:35:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yhsimjqk1h"
+        },
+        {
+          "Name": "label",
+          "Value": "img/esarpp.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgL1rT6Tjz5/WC95JNbjH4aIwQp4ntkFmOaEhGY95Yw="
+        }
+      ]
+    }
+  ]
+}

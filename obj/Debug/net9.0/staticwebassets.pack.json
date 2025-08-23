@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/aker.jpg",
+      "PackagePath": "staticwebassets/img/aker.jpg"
+    },
+    {
+      "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp1.jpg",
+      "PackagePath": "staticwebassets/img/esarp1.jpg"
+    },
+    {
+      "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp2.jpg",
+      "PackagePath": "staticwebassets/img/esarp2.jpg"
+    },
+    {
+      "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp3.jpg",
+      "PackagePath": "staticwebassets/img/esarp3.jpg"
+    },
+    {
+      "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp4.jpg",
+      "PackagePath": "staticwebassets/img/esarp4.jpg"
+    },
+    {
+      "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp5.jpg",
+      "PackagePath": "staticwebassets/img/esarp5.jpg"
+    },
+    {
+      "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarp6.jpg",
+      "PackagePath": "staticwebassets/img/esarp6.jpg"
+    },
+    {
+      "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/esarpp.jpg",
+      "PackagePath": "staticwebassets/img/esarpp.jpg"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.MagazaApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.MagazaApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.MagazaApp.props",
+      "PackagePath": "build\\MagazaApp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.MagazaApp.props",
+      "PackagePath": "buildMultiTargeting\\MagazaApp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.MagazaApp.props",
+      "PackagePath": "buildTransitive\\MagazaApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
