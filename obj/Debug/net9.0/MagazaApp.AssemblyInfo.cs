@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagazaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5ccbb51c091e02f141e973b51b0a58941b111df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74daf0dad17bd7a555edd0327f735d04927d2ab1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagazaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagazaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
