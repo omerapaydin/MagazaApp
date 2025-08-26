@@ -1,3 +1,4 @@
+using MagazaApp.Data.Abstract;
 using MagazaApp.Data.Concrete.EfCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,6 +10,7 @@ builder.Services.AddDbContext<IdentityContext>(options =>{
     options.UseSqlite(builder.Configuration.GetConnectionString("sql_connection"));
 });
 
+builder.Services.AddScoped<IProductRepository,EfProductRepository>();
 
 
 
