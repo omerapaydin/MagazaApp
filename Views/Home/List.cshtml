@@ -1,4 +1,4 @@
-@model List<Product>
+@model ProductListViewModel
 
  <section id="urunler" class="py-5">
       <div class="container">
@@ -9,25 +9,19 @@
                 <h5 class="mb-0">Kategoriler</h5>
               </div>
               <ul class="list-group list-group-flush">
-                <li class="list-group-item">
-                  <a href="#">Bebek Arabaları</a>
+               @foreach(var cat in Model.Categories)
+               {
+                 <li class="list-group-item">
+                  <a href="#">@cat.Name</a>
                 </li>
-                <li class="list-group-item">
-                  <a href="#">Mama Sandalyeleri</a>
-                </li>
-                <li class="list-group-item">
-                  <a href="#">Anne Çantaları</a>
-                </li>
-                <li class="list-group-item">
-                  <a href="#">Bebek Giyimi</a>
-                </li>
+               }
               </ul>
             </div>
           </div>
 
           <div class="col-md-9">
             <div class="row g-4">
-             @foreach(var prd in Model)
+             @foreach(var prd in Model.Products)
              {
                 <div class="col-md-4">
                 <div class="card product-card">
