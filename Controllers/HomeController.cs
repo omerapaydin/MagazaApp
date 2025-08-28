@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MagazaApp.Controllers
 {
-    public class HomeController:Controller
+    public class HomeController : Controller
     {
         private readonly IProductRepository _productRepository;
         private readonly ICategoryRepository _categoryRepository;
@@ -29,9 +29,17 @@ namespace MagazaApp.Controllers
             var viewModel = new ProductListViewModel
             {
                 Products = await _productRepository.Products.ToListAsync()
-                , Categories = await _categoryRepository.Categories.ToListAsync()
+                ,
+                Categories = await _categoryRepository.Categories.ToListAsync()
             };
             return View(viewModel);
-        } 
+        }
+
+        public async Task<IActionResult> Details(int? id)
+        {
+            var product =await _productRepository.Products.FirstOrDefaultAsync(p => p.ProductId == id);
+            return View(product);
+        }
+
     }
 }
