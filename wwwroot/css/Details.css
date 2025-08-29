@@ -1,0 +1,20 @@
+.product-image {
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.price {
+  font-size: 1.8rem;
+  color: #033c21ff;
+  font-weight: bold;
+}
+.btn-success {
+  background-color: #033c21ff;
+  border: none;
+}
+.btn-success:hover {
+  background-color: #033c21ff;
+}
+.related-title {
+  border-left: 5px solid #033c21ff;
+  padding-left: 10px;
+}
