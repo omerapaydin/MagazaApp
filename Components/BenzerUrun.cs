@@ -1,5 +1,3 @@
-using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MagazaApp.Data.Abstract;
@@ -11,13 +9,20 @@ namespace MagazaApp.Components
     public class BenzerUrun : ViewComponent
     {
         private readonly IProductRepository _productRepository;
-        public BenzerUrun(  IProductRepository productRepository)
+
+        public BenzerUrun(IProductRepository productRepository)
         {
             _productRepository = productRepository;
         }
-        public async Task<IViewComponentResult> Invoke()
+
+        public async Task<IViewComponentResult> InvokeAsync()
         {
-            return View(await _productRepository.Products.OrderByDescending(p=>p.PublishedOn).Take(4).ToListAsync());
+            var urunler = await _productRepository.Products
+                .OrderByDescending(p => p.PublishedOn)
+                .Take(4)
+                .ToListAsync();
+
+            return View(urunler);
         }
     }
 }
