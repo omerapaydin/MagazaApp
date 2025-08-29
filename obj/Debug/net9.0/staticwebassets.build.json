@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sSj758p0BD/hTEKMSPS+XAI8mipKvwjbqVraWh1vwsQ=",
+  "Hash": "z7C2+Xni8T2QW5mavFaMyznYLLkkpyuZ8rLJZiphXSI=",
   "Source": "MagazaApp",
   "BasePath": "_content/MagazaApp",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-wa5hxat58k.gz",
       "SourceId": "MagazaApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/MagazaApp",
-      "RelativePath": "css/Details#[.{fingerprint=mgnsy5qovq}]?.css.gz",
+      "RelativePath": "css/Details#[.{fingerprint=wa5hxat58k}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/css/Details.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "owlptjfovx",
-      "Integrity": "KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=",
+      "Fingerprint": "tkjlg9d4fw",
+      "Integrity": "owVrHAGBa4arTZzy+Yp7jrRrUSPjYV0/7/fyZEkMWZE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/css/Details.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mgnsy5qovq",
-      "Integrity": "xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=",
+      "Fingerprint": "wa5hxat58k",
+      "Integrity": "6JFH9gTCEdWkmaPYRwP0Xfhc0VIfELK+dOLq4G5J5Eg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/Details.css"
@@ -230,12 +230,12 @@
   "Endpoints": [
     {
       "Route": "css/Details.css",
-      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-wa5hxat58k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004016064257"
+          "Quality": "0.003745318352"
         }
       ],
       "ResponseHeaders": [
@@ -245,15 +245,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "248"
+          "Value": "266"
         },
         {
           "Name": "ETag",
-          "Value": "\"KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=\""
+          "Value": "\"owVrHAGBa4arTZzy+Yp7jrRrUSPjYV0/7/fyZEkMWZE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+          "Value": "Fri, 29 Aug 2025 22:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -273,13 +273,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=\""
+          "Value": "W/\"6JFH9gTCEdWkmaPYRwP0Xfhc0VIfELK+dOLq4G5J5Eg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI="
+          "Value": "sha256-6JFH9gTCEdWkmaPYRwP0Xfhc0VIfELK+dOLq4G5J5Eg="
         }
       ]
     },
@@ -294,7 +294,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "468"
         },
         {
           "Name": "Content-Type",
@@ -302,11 +302,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=\""
+          "Value": "\"6JFH9gTCEdWkmaPYRwP0Xfhc0VIfELK+dOLq4G5J5Eg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+          "Value": "Fri, 29 Aug 2025 22:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -316,13 +316,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI="
+          "Value": "sha256-6JFH9gTCEdWkmaPYRwP0Xfhc0VIfELK+dOLq4G5J5Eg="
         }
       ]
     },
     {
       "Route": "css/Details.css.gz",
-      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-wa5hxat58k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -331,7 +331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "248"
+          "Value": "266"
         },
         {
           "Name": "Content-Type",
@@ -339,11 +339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=\""
+          "Value": "\"owVrHAGBa4arTZzy+Yp7jrRrUSPjYV0/7/fyZEkMWZE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+          "Value": "Fri, 29 Aug 2025 22:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -361,18 +361,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA="
+          "Value": "sha256-owVrHAGBa4arTZzy+Yp7jrRrUSPjYV0/7/fyZEkMWZE="
         }
       ]
     },
     {
-      "Route": "css/Details.mgnsy5qovq.css",
-      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "Route": "css/Details.wa5hxat58k.css",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-wa5hxat58k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004016064257"
+          "Quality": "0.003745318352"
         }
       ],
       "ResponseHeaders": [
@@ -382,15 +382,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "248"
+          "Value": "266"
         },
         {
           "Name": "ETag",
-          "Value": "\"KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=\""
+          "Value": "\"owVrHAGBa4arTZzy+Yp7jrRrUSPjYV0/7/fyZEkMWZE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+          "Value": "Fri, 29 Aug 2025 22:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -410,13 +410,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=\""
+          "Value": "W/\"6JFH9gTCEdWkmaPYRwP0Xfhc0VIfELK+dOLq4G5J5Eg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgnsy5qovq"
+          "Value": "wa5hxat58k"
         },
         {
           "Name": "label",
@@ -424,12 +424,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI="
+          "Value": "sha256-6JFH9gTCEdWkmaPYRwP0Xfhc0VIfELK+dOLq4G5J5Eg="
         }
       ]
     },
     {
-      "Route": "css/Details.mgnsy5qovq.css",
+      "Route": "css/Details.wa5hxat58k.css",
       "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/css/Details.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -439,7 +439,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "468"
         },
         {
           "Name": "Content-Type",
@@ -447,11 +447,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=\""
+          "Value": "\"6JFH9gTCEdWkmaPYRwP0Xfhc0VIfELK+dOLq4G5J5Eg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+          "Value": "Fri, 29 Aug 2025 22:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -461,7 +461,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgnsy5qovq"
+          "Value": "wa5hxat58k"
         },
         {
           "Name": "label",
@@ -469,13 +469,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI="
+          "Value": "sha256-6JFH9gTCEdWkmaPYRwP0Xfhc0VIfELK+dOLq4G5J5Eg="
         }
       ]
     },
     {
-      "Route": "css/Details.mgnsy5qovq.css.gz",
-      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "Route": "css/Details.wa5hxat58k.css.gz",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-wa5hxat58k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -484,7 +484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "248"
+          "Value": "266"
         },
         {
           "Name": "Content-Type",
@@ -492,11 +492,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=\""
+          "Value": "\"owVrHAGBa4arTZzy+Yp7jrRrUSPjYV0/7/fyZEkMWZE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+          "Value": "Fri, 29 Aug 2025 22:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -514,7 +514,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgnsy5qovq"
+          "Value": "wa5hxat58k"
         },
         {
           "Name": "label",
@@ -522,7 +522,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA="
+          "Value": "sha256-owVrHAGBa4arTZzy+Yp7jrRrUSPjYV0/7/fyZEkMWZE="
         }
       ]
     },

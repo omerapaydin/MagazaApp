@@ -159,4 +159,4 @@
 /Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/MagazaApp.pdb
 /Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/MagazaApp.genruntimeconfig.cache
 /Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/ref/MagazaApp.dll
-/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz
+/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-wa5hxat58k.gz
