@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/css/Details.css",
+      "PackagePath": "staticwebassets/css/Details.css"
+    },
+    {
       "Id": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/aker.jpg",
       "PackagePath": "staticwebassets/img/aker.jpg"
     },

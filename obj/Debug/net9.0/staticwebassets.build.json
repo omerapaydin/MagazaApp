@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eDH7O3SMbd89ty0bXWXi7tQxSAJ2xkJxXEzXn1+Bq/w=",
+  "Hash": "sSj758p0BD/hTEKMSPS+XAI8mipKvwjbqVraWh1vwsQ=",
   "Source": "MagazaApp",
   "BasePath": "_content/MagazaApp",
   "Mode": "Default",
@@ -16,6 +16,48 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "css/Details#[.{fingerprint=mgnsy5qovq}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/css/Details.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "owlptjfovx",
+      "Integrity": "KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/css/Details.css"
+    },
+    {
+      "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/css/Details.css",
+      "SourceId": "MagazaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/",
+      "BasePath": "_content/MagazaApp",
+      "RelativePath": "css/Details#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mgnsy5qovq",
+      "Integrity": "xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/Details.css"
+    },
     {
       "Identity": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/aker.jpg",
       "SourceId": "MagazaApp",
@@ -186,6 +228,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/Details.css",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004016064257"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Details.css",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/css/Details.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Details.css.gz",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA="
+        }
+      ]
+    },
+    {
+      "Route": "css/Details.mgnsy5qovq.css",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004016064257"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mgnsy5qovq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Details.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Details.mgnsy5qovq.css",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/css/Details.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mgnsy5qovq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Details.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpslN/746tBGu3Vbz6rjpX+zMmE/gkCiJMl3cefIGDI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Details.mgnsy5qovq.css.gz",
+      "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/obj/Debug/net9.0/compressed/xdqicskg03-mgnsy5qovq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 17:51:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mgnsy5qovq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Details.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KJQufOWr32wnqxkqLYDQ7Lv8te6+ip1o7JGWrgyZGgA="
+        }
+      ]
+    },
     {
       "Route": "img/aker.3rw1nh5m6c.jpg",
       "AssetFile": "/Users/omerapaydin/Desktop/MağazaE-Ticaret1/MagazaApp/wwwroot/img/aker.jpg",

@@ -25,11 +25,13 @@
              {
                 <div class="col-md-4">
                 <div class="card product-card">
+                  <a asp-controller="Home" asp-action="Details" asp-route-id="@prd.ProductId">
                   <img
                     src="~/img/@prd.Image"
                     class="card-img-top"
                     alt="Ürün"
                   />
+                  </a>
                   <div class="card-body text-center">
                     <h5 class="card-title">@prd.Title</h5>
                     <p class="card-text">@prd.Description</p>
